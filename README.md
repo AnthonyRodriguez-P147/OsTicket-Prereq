@@ -60,3 +60,33 @@ When creating the Vm it is important to pick the resource group that you made ea
 <p>
 Before accessing remote desktop with the admin user account and password be sure to configure your Network Security Group (NSG) to allow RDP ports (3389 for windows / SSH(22) for linux. Other ports you need are http 80 and https 443 to allow web traffic for the OsTicket interface.
 <br />
+  
+  ![image](https://github.com/user-attachments/assets/eb5e605b-a6d9-463d-bf8b-862a2a72e00c)
+
+<p>
+Next log into your Vm using the public Ip address and the admin name a passowrd. 
+  
+  ![image](https://github.com/user-attachments/assets/bd6a3208-1d93-4183-ab7d-7a850ec3615b)
+
+  ![image](https://github.com/user-attachments/assets/7fb5288d-709e-4433-9694-0577c152785a)
+
+
+  Once you are in the Virtual machine you can use this link osTicket-Installation-Files.zip to download the folder and drag it your desktop. We can then right click it and press extract all. Make sure its in the desktop osticket installation folder.
+</p>
+<br />
+
+<p>
+  Next we are going to install/ enable IIS in windows, the IIS will be serviceing osticket. To enable it we go the start menu and go to the control pannel and go to programs 
+
+  ![image](https://github.com/user-attachments/assets/622fd580-ada8-4e75-bf73-32361391f554)
+
+  ![image](https://github.com/user-attachments/assets/45ac6d65-6005-49a9-8aba-3beb00af8afc)
+
+  ![Screenshot 2025-02-26 150759](https://github.com/user-attachments/assets/4a081007-0bb0-41bf-beac-c5cc0734fee9)
+
+
+
+  On the left side we can click on turn windows Features on or off, enable internet information services and click the dropdown menu. Click on the dropdown for world eide web service, click on the dropdown menu for 
+
+</p>
+<br />
