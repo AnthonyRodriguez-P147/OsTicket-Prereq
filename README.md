@@ -73,7 +73,7 @@ Next log into your Vm using the public Ip address and the admin name a passowrd.
   Once you are in the Virtual machine you can use this link osTicket-Installation-Files.zip to download the folder and drag it your desktop. We can then right click it and press extract all. Make sure its in the desktop osticket installation folder.
 </p>
 <br />
-<h2> Installing osticket</h2>
+<h2> Control Pannel Settings</h2>
 <p>
   Next we are going to install/ enable IIS in windows, the IIS will be serviceing osticket. To enable it we go the start menu and go to the control pannel and go to programs 
 
