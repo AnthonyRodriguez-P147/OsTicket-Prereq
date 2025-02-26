@@ -100,8 +100,17 @@ Next log into your Vm using the public Ip address and the admin name a passowrd.
 
 Click to enable CGI
  
+After CGI is finished enabling go the osTicket folder open it and click on php manager 
+
+![Screenshot 2025-02-26 152440](https://github.com/user-attachments/assets/d7abdfd8-ef82-4f3d-981f-326043d84596)
+
+After you are done installing and agreeing to the terms of service, from the osticket folder intall the read write module (rewrite_am64_en-US msi)
+
+![Screenshot 2025-02-26 152719](https://github.com/user-attachments/assets/ba996c26-826e-44b8-9b1a-374969bdbf80)
 
 
+
+![Screenshot 2025-02-26 153015](https://github.com/user-attachments/assets/23262eb2-86e9-48d4-8e55-1f54f71a5045)
 
 
 </p>
