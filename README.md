@@ -83,19 +83,16 @@ Next log into your Vm using the public Ip address and the admin name a passowrd.
   
    On the left side we can click on turn windows Features on or off
 
-  ![image](https://github.com/user-attachments/assets/45ac6d65-6005-49a9-8aba-3beb00af8afc)
+  ![image](https://github.com/user-attachments/assets/45ac6d65-6005-49a9-8aba-3beb00af8afc)  ![Screenshot 2025-02-26 150759](https://github.com/user-attachments/assets/4a081007-0bb0-41bf-beac-c5cc0734fee9)
   
   enable internet information services and click the dropdown menu
 
-  ![Screenshot 2025-02-26 150759](https://github.com/user-attachments/assets/4a081007-0bb0-41bf-beac-c5cc0734fee9)
  
   Click on the dropdown for world eide web service
   
-  ![image](https://github.com/user-attachments/assets/8c02fcd1-639f-4b79-831f-59cf41900485)
+  ![image](https://github.com/user-attachments/assets/8c02fcd1-639f-4b79-831f-59cf41900485) ![Screenshot 2025-02-26 152038](https://github.com/user-attachments/assets/fee81892-f0de-44b9-843d-2eb48155fd73)
 
  click on the dropdown menu for Application Develpment features
-
-![Screenshot 2025-02-26 152038](https://github.com/user-attachments/assets/fee81892-f0de-44b9-843d-2eb48155fd73)
 
 Click to enable CGI
  
