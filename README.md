@@ -25,28 +25,32 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Item 1 Create a Resource group in Microsoft Azure
 
-- Item 2 Create a Windows 10 Vm within Azure
+- Item 2 Create a Windows 10 Vm/Linux within Azure
 
-- Item 3
+- Item 3 Configure a Network Security Group (NSG) rules
 - Item 4
 - Item 5
 
 <h2>Installation Steps</h2>
 
 
-![image](https://github.com/user-attachments/assets/ca4a1a7b-8ce8-4e53-93d8-827bab22739e)
+![image](https://github.com/user-attachments/assets/ec152dda-5598-44a9-bbcb-ff999e894223)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to you Azure portal and type Resource groups, and specify the region for the group so we can choose the best location for the Virtual machine 
 </p>
 <br />
 
 
-![image](https://github.com/user-attachments/assets/3758f780-6362-482d-a01a-0a9894c5628b)
+![image](https://github.com/user-attachments/assets/ea888c52-3cf1-40d9-926e-904febafed2c)
+
+![image](https://github.com/user-attachments/assets/de20c6d3-3ca4-467d-9151-2ee57d960bc3)
+
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When creating the Vm it is important to pick the resource group that you made earlier. Name the Vm and choose the region you are in. For the image pick the windows 10 operating system  or Ununtu Server for linux. For Vm size ste standard_B1s is for slower traffic while the StandardD1s_v2 is for better performance. When creating a Admin account be sure to use a strang password or an SSH key for Linux Vm
 </p>
 <br />
 
@@ -54,6 +58,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Before accessing remote desktop with the admin user account and password be sure to configure your Network Security Group (NSG) to allow RDP ports (3389 for windows / SSH(22) for linux. Other ports you need are http 80 and https 443 to allow web traffic for the OsTicket interface.
 <br />
