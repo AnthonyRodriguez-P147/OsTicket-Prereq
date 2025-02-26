@@ -55,7 +55,6 @@ When creating the Vm it is important to pick the resource group that you made ea
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Before accessing remote desktop with the admin user account and password be sure to configure your Network Security Group (NSG) to allow RDP ports (3389 for windows / SSH(22) for linux. Other ports you need are http 80 and https 443 to allow web traffic for the OsTicket interface.
@@ -66,6 +65,8 @@ Before accessing remote desktop with the admin user account and password be sure
 <p>
 Next log into your Vm using the public Ip address and the admin name a passowrd. 
   
+  <h2> Installing osticket</h2>
+  
   ![image](https://github.com/user-attachments/assets/bd6a3208-1d93-4183-ab7d-7a850ec3615b)
 
   ![image](https://github.com/user-attachments/assets/7fb5288d-709e-4433-9694-0577c152785a)
@@ -74,7 +75,7 @@ Next log into your Vm using the public Ip address and the admin name a passowrd.
   Once you are in the Virtual machine you can use this link osTicket-Installation-Files.zip to download the folder and drag it your desktop. We can then right click it and press extract all. Make sure its in the desktop osticket installation folder.
 </p>
 <br />
-
+<h2> Installing osticket</h2>
 <p>
   Next we are going to install/ enable IIS in windows, the IIS will be serviceing osticket. To enable it we go the start menu and go to the control pannel and go to programs 
 
