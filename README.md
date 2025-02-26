@@ -44,6 +44,7 @@ Go to you Azure portal and type Resource groups, and specify the region for the 
 <br />
 
 <h2> Creating Virtual machine</h2>
+
 ![image](https://github.com/user-attachments/assets/ea888c52-3cf1-40d9-926e-904febafed2c) ![image](https://github.com/user-attachments/assets/de20c6d3-3ca4-467d-9151-2ee57d960bc3)
 
 
