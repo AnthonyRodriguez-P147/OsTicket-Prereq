@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
+
 ![image](https://github.com/user-attachments/assets/ca4a1a7b-8ce8-4e53-93d8-827bab22739e)
 </p>
 <p>
@@ -41,8 +41,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<p>
-![image](https://github.com/user-attachments/assets/97a4e59e-eccc-45bc-a873-dd4a0a9e765f)
+
+![image](https://github.com/user-attachments/assets/3758f780-6362-482d-a01a-0a9894c5628b)
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
