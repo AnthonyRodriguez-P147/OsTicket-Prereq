@@ -67,9 +67,7 @@ Next log into your Vm using the public Ip address and the admin name a passowrd.
   
   <h2> Installing osticket</h2>
   
-  ![image](https://github.com/user-attachments/assets/bd6a3208-1d93-4183-ab7d-7a850ec3615b)
-
-  ![image](https://github.com/user-attachments/assets/7fb5288d-709e-4433-9694-0577c152785a)
+  ![image](https://github.com/user-attachments/assets/bd6a3208-1d93-4183-ab7d-7a850ec3615b)    ![image](https://github.com/user-attachments/assets/7fb5288d-709e-4433-9694-0577c152785a)
 
 
   Once you are in the Virtual machine you can use this link osTicket-Installation-Files.zip to download the folder and drag it your desktop. We can then right click it and press extract all. Make sure its in the desktop osticket installation folder.
