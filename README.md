@@ -128,6 +128,7 @@ Select browse and select the PHP folder
 ![Screenshot 2025-02-26 210251](https://github.com/user-attachments/assets/5bf687ed-8ca8-4624-a080-26d93b0fa376)
 
 
+![Screenshot 2025-02-26 215619](https://github.com/user-attachments/assets/fca8bb5e-b97d-4cec-9111-91b660e76ceb)
 
 
 ![Screenshot 2025-02-26 161726](https://github.com/user-attachments/assets/406c0f73-f54c-4fa1-b0a9-9c7396f00fce)
@@ -137,10 +138,65 @@ Select browse and select the PHP folder
 ![Screenshot 2025-02-26 224849](https://github.com/user-attachments/assets/bed27713-a353-4f61-9a05-5f4c4253e902)
 
 We are missing some extensions 
-we Double-click PHP Manager
+we go back to PhP Manager and Double-click PHP Manager
 Click “Enable or disable an extension”
 we need to enable these three Enable: php_imap.dll Enable: php_intl.dll Enable: php_opcache.dll
 
+
+Next we rename ost-config.php From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+![Screenshot 2025-02-26 225653](https://github.com/user-attachments/assets/7346e2e0-d09e-49aa-b21f-0e245ccfd090)
+
+![Screenshot 2025-02-26 225808](https://github.com/user-attachments/assets/6380a0f8-3241-4db5-9d81-65697f52199f)
+
+![Screenshot 2025-02-26 230101](https://github.com/user-attachments/assets/5ac2de69-78d9-4ab5-89b6-36651181e21c)
+
+
+
+![Screenshot 2025-02-26 230411](https://github.com/user-attachments/assets/4612038f-33e5-4de7-b358-7cc53c4cbcb9)
+
+![Screenshot 2025-02-26 230429](https://github.com/user-attachments/assets/744b145e-ff1b-4315-bc24-0063ab512706)
+
+![Screenshot 2025-02-26 230439](https://github.com/user-attachments/assets/cb846e19-2f07-4772-939a-a5e1ffde12a4)
+
+after that we disable inheritance, and add new permissions. For this example we will give everyone permissions not good to do in real life. 
+
+![Screenshot 2025-02-26 230607](https://github.com/user-attachments/assets/0b3f7223-6e8a-4c02-a908-5420105881cf)
+
+<h1>
+Now we can begin basic intallation for osTicket
+
+![Screenshot 2025-02-26 230739](https://github.com/user-attachments/assets/7b8cd63f-6991-4f38-bce8-f9ec72bb5ea9)
+
+  
+</h1>
+
+We can start by naming it whatever we want, filling out he email and making the admin user.
+After we go back to osTicket insatll files and install HeidiSQL 
+
+![Screenshot 2025-02-26 231235](https://github.com/user-attachments/assets/3ea4cd60-05b4-4f73-a527-17c37221ee43)
+![Screenshot 2025-02-26 231305](https://github.com/user-attachments/assets/36c0efbb-04ff-46f7-b86a-f3a32fcf2ced)
+
+We launch HeidiSQL 
+![Screenshot 2025-02-26 231511](https://github.com/user-attachments/assets/5e9fe0d3-f54c-449f-a911-bbffdc39aed5)
+
+Create a new session, root/root
+Connect to the session
+Create a database called “osTicket”
+
+![image](https://github.com/user-attachments/assets/4de29674-1d52-4e8b-9938-6963469b3223)
+
+
+![image](https://github.com/user-attachments/assets/2726703c-5aba-4fc8-b3a0-5e42652ba507)
+
+Continue Setting up osTicket in the browser
+MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: root
+Click “Install Now!”
+
+![Screenshot 2025-02-26 232028](https://github.com/user-attachments/assets/25fbe9b1-c34b-4cb6-8f8d-46644f145b7a)
 
 </p>
 <br />
