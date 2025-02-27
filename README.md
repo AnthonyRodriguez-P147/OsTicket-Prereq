@@ -119,6 +119,7 @@ After you are done installing and agreeing to the terms of service, from the ost
 
   Then from the osTicket-Installation-Files' folder unzip PHP 7.3 8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
 Select browse and select the PHP folder
+
 ![Screenshot 2025-02-26 161528](https://github.com/user-attachments/assets/1bc5985a-832a-47d5-904c-9f672ad28339) ![Screenshot 2025-02-26 161615](https://github.com/user-attachments/assets/04a4d2e4-d15a-411e-abbb-51d076863124)
 
 
