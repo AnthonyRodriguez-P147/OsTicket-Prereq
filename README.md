@@ -81,7 +81,8 @@ Next log into your Vm using the public Ip address and the admin name a passowrd.
 
   ![image](https://github.com/user-attachments/assets/622fd580-ada8-4e75-bf73-32361391f554)
 
-  ![Screenshot 2025-02-26 150443](https://github.com/user-attachments/assets/8ae686fa-6cfe-4d4a-b4c6-073e13a0e53b)
+ ![Screenshot 2025-02-26 210202](https://github.com/user-attachments/assets/ad6c4bc2-cdc7-4275-ad36-29ee059b65d9)
+
   
    On the left side we can click on turn windows Features on or off
 
@@ -90,9 +91,10 @@ Next log into your Vm using the public Ip address and the admin name a passowrd.
   enable internet information services and click the dropdown menu
 
  
-  Click on the dropdown for world eide web service
+  Click on the dropdown for world wide web service
   
-  ![image](https://github.com/user-attachments/assets/8c02fcd1-639f-4b79-831f-59cf41900485) ![Screenshot 2025-02-26 152038](https://github.com/user-attachments/assets/fee81892-f0de-44b9-843d-2eb48155fd73)
+ ![Screenshot 2025-02-26 210213](https://github.com/user-attachments/assets/fac46e75-f603-4ff4-8a80-820fab46c0fe)
+
 
  click on the dropdown menu for Application Develpment features
 
@@ -100,7 +102,8 @@ Click to enable CGI
  <h2> Prereq</h2>
 After CGI is finished enabling go the osTicket folder open it and click on php manager 
 
-![Screenshot 2025-02-26 152440](https://github.com/user-attachments/assets/d7abdfd8-ef82-4f3d-981f-326043d84596) ![Screenshot 2025-02-26 152719](https://github.com/user-attachments/assets/ba996c26-826e-44b8-9b1a-374969bdbf80) ![Screenshot 2025-02-26 153015](https://github.com/user-attachments/assets/23262eb2-86e9-48d4-8e55-1f54f71a5045)
+![Screenshot 2025-02-26 210227](https://github.com/user-attachments/assets/299e8cf3-1a1c-44bc-a262-974a90e99591)
+ ![Screenshot 2025-02-26 152719](https://github.com/user-attachments/assets/ba996c26-826e-44b8-9b1a-374969bdbf80) ![Screenshot 2025-02-26 153015](https://github.com/user-attachments/assets/23262eb2-86e9-48d4-8e55-1f54f71a5045)
 
 After you are done installing and agreeing to the terms of service, from the osticket folder install the read write module (rewrite_am64_en-US msi)
 
@@ -120,9 +123,11 @@ After you are done installing and agreeing to the terms of service, from the ost
   Then from the osTicket-Installation-Files' folder unzip PHP 7.3 8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
 Select browse and select the PHP folder
 
-![Screenshot 2025-02-26 161528](https://github.com/user-attachments/assets/1bc5985a-832a-47d5-904c-9f672ad28339) 
+![Screenshot 2025-02-26 210242](https://github.com/user-attachments/assets/2ab52123-03ab-43f7-88d2-d8a69333dcc6)
 
-![Screenshot 2025-02-26 161615](https://github.com/user-attachments/assets/04a4d2e4-d15a-411e-abbb-51d076863124)
+![Screenshot 2025-02-26 210251](https://github.com/user-attachments/assets/5bf687ed-8ca8-4624-a080-26d93b0fa376)
+
+
 
 
 ![Screenshot 2025-02-26 161726](https://github.com/user-attachments/assets/406c0f73-f54c-4fa1-b0a9-9c7396f00fce)
