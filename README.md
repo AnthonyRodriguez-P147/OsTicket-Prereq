@@ -132,5 +132,15 @@ Select browse and select the PHP folder
 
 ![Screenshot 2025-02-26 161726](https://github.com/user-attachments/assets/406c0f73-f54c-4fa1-b0a9-9c7396f00fce)
 
+![Screenshot 2025-02-26 224422](https://github.com/user-attachments/assets/ed7681c1-7279-4f10-822b-753dacbe128a)
+
+![Screenshot 2025-02-26 224849](https://github.com/user-attachments/assets/bed27713-a353-4f61-9a05-5f4c4253e902)
+
+We are missing some extensions 
+we Double-click PHP Manager
+Click “Enable or disable an extension”
+we need to enable these three Enable: php_imap.dll Enable: php_intl.dll Enable: php_opcache.dll
+
+
 </p>
 <br />
