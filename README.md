@@ -102,11 +102,27 @@ After CGI is finished enabling go the osTicket folder open it and click on php m
 
 ![Screenshot 2025-02-26 152440](https://github.com/user-attachments/assets/d7abdfd8-ef82-4f3d-981f-326043d84596) ![Screenshot 2025-02-26 152719](https://github.com/user-attachments/assets/ba996c26-826e-44b8-9b1a-374969bdbf80) ![Screenshot 2025-02-26 153015](https://github.com/user-attachments/assets/23262eb2-86e9-48d4-8e55-1f54f71a5045)
 
-After you are done installing and agreeing to the terms of service, from the osticket folder intall the read write module (rewrite_am64_en-US msi)
+After you are done installing and agreeing to the terms of service, from the osticket folder install the read write module (rewrite_am64_en-US msi)
 
 
 
+</p>
+<br />
 
+<p>
+
+![Screenshot 2025-02-26 160942](https://github.com/user-attachments/assets/432aa24a-373e-46e7-8b75-274d5610d3c0)
+
+  
+  After it is done installing create a new folder in the C windows drive and name it PHP. 
+
+
+  Then from the osTicket-Installation-Files' folder unzip PHP 7.3 8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+Select browse and select the PHP folder
+![Screenshot 2025-02-26 161528](https://github.com/user-attachments/assets/1bc5985a-832a-47d5-904c-9f672ad28339) ![Screenshot 2025-02-26 161615](https://github.com/user-attachments/assets/04a4d2e4-d15a-411e-abbb-51d076863124)
+
+
+![Screenshot 2025-02-26 161726](https://github.com/user-attachments/assets/406c0f73-f54c-4fa1-b0a9-9c7396f00fce)
 
 </p>
 <br />
