@@ -121,6 +121,7 @@ After you are done installing and agreeing to the terms of service, from the ost
 Select browse and select the PHP folder
 
 ![Screenshot 2025-02-26 161528](https://github.com/user-attachments/assets/1bc5985a-832a-47d5-904c-9f672ad28339) 
+
 ![Screenshot 2025-02-26 161615](https://github.com/user-attachments/assets/04a4d2e4-d15a-411e-abbb-51d076863124)
 
 
